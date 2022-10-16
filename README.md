@@ -22,7 +22,7 @@ Fast RICIN via aux cord. (Faster than feature hiding in RICINgauss but ditto ill
 ## RICINscpa
 Fast RICIN via SCPA using RTL-SDR. (Antenna to SATA data, testing unoptimized C++.)
 
-##SigEmerge
+## SigEmerge
 Control computer circuitry as if antennas to network & broadcast, and pickup keystrokes using custom radios.
 
 ## groupdocOTP
