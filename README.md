@@ -15,7 +15,7 @@ The five classic cryptanalytic perspectives. (Completed, electronifying...)
 
 --------------------------------------------------------------------------------
 ## Escaping finitude
-The clostrophobic finitude that led me to infinite trust from 1 number. (How Authorship overcomes surprising depth of censorship. Completed, electronifying...)
+The claustrophobic finitude that led me to infinite trust from 1 number. (How Authorship overcomes surprising depth of censorship. Completed, electronifying...)
 
 --------------------------------------------------------------------------------
 ## Start your own crypto this instant
