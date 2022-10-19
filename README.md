@@ -37,3 +37,9 @@ Control computer circuitry as if antennas to network & broadcast, and pickup key
 ## groupdocOTP
 Combining groupOTP with schemeOTP but not replacing schemeOTP.
 
+--------------------------------------------------------------------------------
+### Meanwhile on my laptop...
+
+<p align="center">
+  <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/Meanwhile.jpg">
+</p>
