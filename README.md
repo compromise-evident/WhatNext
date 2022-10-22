@@ -4,7 +4,7 @@ Hyperspeed Authorship variant using 1.2kB disposable public files for user authe
 
 --------------------------------------------------------------------------------
 ## Collision precision
-A paper on my hash collision calculator for any file or range of files, (tells you exactly how many different files of what size correspond to 1 hash of particular possibilities) and on generating hash without collision or reversal shortcuts--a variable Authorship function of special inconvenience. (Completed, electronifying...)
+A paper on my hash collision calculator for any file or range of files, (tells you exactly how many different files of what size correspond to 1 hash of any particular possibilities) and on generating hash without collision or reversal shortcuts--a variable Authorship function of special inconvenience. (Completed, electronifying...)
 
 --------------------------------------------------------------------------------
 ## compromise-emergent
