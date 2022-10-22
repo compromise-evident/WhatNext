@@ -3,10 +3,6 @@
 Hyperspeed Authorship variant using 1.2kB disposable public files for user authentication. (6,570-bit encryption, 72-char numbers shared as 150-char strings. This goes far beyond "multi-way deductive lossy compression" and "flexible identifying properties for multiple keys". This is the most important Authorship variant.)
 
 --------------------------------------------------------------------------------
-## Disqualification difficulty proof
-The proof of the difficulty of disqualifying multi-hasp from P in cryptography. (Completed, electronifying...)
-
---------------------------------------------------------------------------------
 ## Collision precision
 A paper on my hash collision calculator for any file or range of files, and on generating hash without collision or reversal shortcuts. (Completed, electronifying...)
 
