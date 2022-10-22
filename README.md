@@ -20,7 +20,7 @@ The claustrophobic finitude that led me to infinite trust from 1 number. (How Au
 
 --------------------------------------------------------------------------------
 ## RICINaux
-Fast RICIN via aux cord. (Faster than feature hiding in RICINgauss but ditto illadvised. note2self: include new warning from gauss but direct connection.)
+Fast RICIN via aux cord. (Faster than feature hiding in RICINgauss but ditto illadvised. Much faster in fact. This attempt will use voltage, not "spike, flat." note2self: include new warning from gauss but direct connection.)
 
 --------------------------------------------------------------------------------
 ## RICINscpa
