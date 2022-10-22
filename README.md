@@ -3,10 +3,6 @@
 Hyperspeed Authorship variant using 1.2kB disposable public files for user authentication. (6,570-bit encryption, 72-char numbers shared as 150-char strings. This goes far beyond "multi-way deductive lossy compression" and "flexible identifying properties for multiple keys". This is the most important Authorship variant.)
 
 --------------------------------------------------------------------------------
-## Collision precision
-A paper on my hash collision calculator for any file or range of files, (tells you exactly how many different files of what size correspond to 1 hash of any particular possibilities) and on generating hash without collision or reversal shortcuts--a variable Authorship function of special inconvenience. (Completed, electronifying...)
-
---------------------------------------------------------------------------------
 ## compromise-emergent
 The five classic cryptanalytic perspectives. (Completed, electronifying...)
 
