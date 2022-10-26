@@ -1,8 +1,4 @@
 --------------------------------------------------------------------------------
-## Hypership
-Hyperspeed Authorship variant using 1.2kB disposable public files for user authentication. (6,570-bit encryption, 72-char numbers shared as 150-char strings. This goes far beyond "multi-way deductive lossy compression" and "flexible identifying properties for multiple keys". This is the most important Authorship variant.)
-
---------------------------------------------------------------------------------
 ## RICINaux
 Fast RICIN via aux cord. (Faster than feature hiding in RICINgauss but ditto illadvised. Much faster in fact. This attempt will use voltage, not "spike, flat." note2self: include new warning from gauss but direct connection.)
 
