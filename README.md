@@ -12,7 +12,7 @@ The claustrophobic finitude that led me to infinite trust from 1 number. (How Au
 
 --------------------------------------------------------------------------------
 ## Start your own crypto this instant
-(Getting started with and examples for Authorship, AuthorshipFemto, and Hypership. Completed, electronifying...)
+(Getting started with, and examples for, Authorship, AuthorshipFemto, and Hypership. Completed, electronifying...)
 
 --------------------------------------------------------------------------------
 ## RICINaux
