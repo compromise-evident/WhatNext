@@ -69,4 +69,4 @@ Combining groupOTP with schemeOTP but not replacing schemeOTP.
   <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/RICINkeyboard.jpg">
 </p>
 
-Yes, I scratched off leads on the keyboard guts and soldered photoresistors to those leads. IIRC there's .2V always active, and when two or more leads have an electrical path between them, some symbol is printed to the screen. So I night-moded a terminal and sent '#' flying on the screen while bringing this contraption close to the screen, where the hash characters run upwards like reverse matrix. I got 1 Byte transferred every 2 seconds then quit. See RICINkeyboard.cpp in Other.
+Yes, I scratched off leads on the keyboard guts and soldered photoresistors to those leads. IIRC there's .2V always active, and when two or more leads have an electrical path between them, some symbol is printed to the screen. So I night-moded a terminal and sent '#' flying on the screen while bringing this contraption close to the screen, where the hash characters run upwards like reverse matrix. See RICINkeyboard.cpp in Other.
