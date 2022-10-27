@@ -1,3 +1,9 @@
+<--
+Projects upcoming on a need-to-show basis.
+-->
+
+
+
 --------------------------------------------------------------------------------
 ## Collision precision
 A paper on my hash collision calculator for any file or range of files, and on generating hash without collision or reversal shortcuts. (It tells you exactly how many different files 1 hash corresponds to. And hash without collision or reversal shortcuts means variable Authorship functions with special inconvenience as you will see in the paper. Completed, electronifying...)
