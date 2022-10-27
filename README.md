@@ -56,8 +56,17 @@ Control computer circuitry as if antennas to network & broadcast, and pickup key
 Combining groupOTP with schemeOTP but not replacing schemeOTP.
 
 --------------------------------------------------------------------------------
-### Meanwhile on my laptop...
+## Meanwhile on my laptop...
 
 <p align="center">
   <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/Meanwhile.jpg">
 </p>
+
+--------------------------------------------------------------------------------
+## And here's an old one
+
+<p align="center">
+  <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/RICINkeyboard.jpg">
+</p>
+
+Yes, I scratched off leads on the keyboard guts and soldered photoresistors to those leads. IIRC there's .2V always active, and when two or more leads have an electrical path between them, some symbol is printed to the screen. So I night-moded a terminal and sent '#' flying down the screen while bringing this contraption close to the screen there the hash characters run upwards like reverse matrix. I got 1 Byte transferred every 2 seconds then quit.
