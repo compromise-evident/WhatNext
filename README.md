@@ -13,10 +13,6 @@ The five classic cryptanalytic perspectives. (Completed, electronifying...)
 The claustrophobic finitude that led me to infinite trust from 1 number. (How Authorship overcomes surprising depth of censorship. Completed, electronifying...)
 
 --------------------------------------------------------------------------------
-## Start your own crypto this instant
-(Getting started with, and examples for, Authorship, AuthorshipFemto, and Hypership. Completed, electronifying...)
-
---------------------------------------------------------------------------------
 ## RICINaux
 Fast RICIN via aux cord. (Faster than feature hiding in RICINgauss but ditto illadvised. Much faster in fact. This attempt will use voltage, not "spike, flat." note2self: include new warning from gauss but direct connection.)  
 **Its use in the real world:** I had personally spoken to another C++ guy, he administers acting. Apparently, just before each act, clients must register the upcoming act so that--believe it or not--the government can have sure access to this registry at all times... for some reason. He wanted a Secure Offline Machine to accept registrations from an online machine (of one-way data flow.) Now the inquiring party can physically access the offline storage and read entries. All my existing RICIN systems are enough, RICINscpa will handle massive files, and RICINaux will handle big files conveniently. This guy may choose to also upload from the offline machine (one-way data stream via RICIN.) This is the type of stuff RICIN was for.
