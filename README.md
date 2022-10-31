@@ -15,10 +15,6 @@ Purpose: if primes can be recognized, so might semiprimes. And if that, perhaps 
 Natural pqML variant with activity-based gain and inactivity-based loss.
 
 --------------------------------------------------------------------------------
-## compromise-emergent
-The five classic cryptanalytic perspectives. (Completed, electronifying...)
-
---------------------------------------------------------------------------------
 ## Escaping finitude
 The claustrophobic finitude that led me to infinite trust from 1 number. (How Authorship overcomes surprising depth of censorship. Completed, electronifying...)
 
