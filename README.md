@@ -57,7 +57,7 @@ Fast RICIN via SCPA using RTL-SDR. (Antenna to SATA data, testing unoptimized C+
 
 --------------------------------------------------------------------------------
 ## SigEmerge
-Control computer circuitry as if antennas to network & broadcast, and pickup keystrokes using custom radios.
+Control computer circuitry as if antennas to network & broadcast, and pickup keystrokes using custom radios. (This is of course to demonstrate possible capabilities, warn, protect those born against their will. Defense only!)
 
 --------------------------------------------------------------------------------
 ## groupdocOTP
