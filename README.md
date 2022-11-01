@@ -5,27 +5,27 @@ Projects upcoming on a need-to-show basis.
 
 
 --------------------------------------------------------------------------------
-## pqML
-Train a model to recognize 18-digit primes, all models unique. <br/>
+# pqML
+**Train a model to recognize 18-digit primes, all models unique.** <br/>
 
-Purpose: if primes can be recognized, so might semiprimes. And if that, perhaps their factors. Otherwise, this would serve as a pretty-good-proof that semiprimes are without reversal shortcuts. 18 digits is a good start for proof of concept, which might be applied to relevant length later.
-
---------------------------------------------------------------------------------
-## pqMLzero
-Natural pqML variant with activity-based gain and inactivity-based loss.
+Purpose: if primes can be recognized, so might semiprimes. And if that, perhaps their factors. Otherwise, this would serve as a pretty-good-proof that semiprimes are without reversal shortcuts. 18 digits is a good start for proof of concept, which might be applied to relevant length later. Remember, the desirable outcome is to fail; to show that semiprime strength perseveres under computer thought exaction.
 
 --------------------------------------------------------------------------------
-## Escaping finitude
-The claustrophobic finitude that led me to infinite trust from 1 number. (How Authorship overcomes surprising depth of censorship. Completed, electronifying...)
+# pqMLzero
+**Natural pqML variant with activity-based gain and inactivity-based loss.**
 
 --------------------------------------------------------------------------------
-## RICINaux
-Fast RICIN via aux cord. (Faster than feature hiding in RICINgauss but ditto illadvised. Much faster in fact. This attempt will use voltage, not "spike, flat." note2self: include new warning from gauss but direct connection.)  
+# Escaping finitude
+**The claustrophobic finitude that led me to infinite trust from 1 number.** (How Authorship overcomes surprising depth of censorship. Completed, electronifying...)
+
+--------------------------------------------------------------------------------
+# RICINaux
+**Fast RICIN via aux cord.** (Faster than feature hiding in RICINgauss but ditto illadvised. Much faster in fact. This attempt will use voltage, not "spike, flat." note2self: include new warning from gauss but direct connection.)  
 **Its use in the real world:** I had personally spoken to another C++ guy, he administers acting. Apparently, just before each act, clients must register the upcoming act so that--believe it or not--the government can have sure access to this registry at all times... for some reason. He wanted a Secure Offline Machine to accept registrations from an online machine (of one-way data flow.) Now the inquiring party can physically access the offline storage and read entries. All my existing RICIN systems are enough, RICINscpa will handle massive files, and RICINaux will handle big files conveniently. This guy may choose to also upload from the offline machine (one-way data stream via RICIN.) This is the type of stuff RICIN was for.
 
 --------------------------------------------------------------------------------
-## RICINscpa
-Fast RICIN via SCPA using RTL-SDR. (Antenna to SATA data, testing unoptimized C++. Let me tell you about an unexpected security risk. C++ compiler g++ will optimize. If you have read/writes to disk interrupted by computation so that read/write appears patterned and may be picked up via side channels, you won't get what you want. Read/write will be smooth and uninterrupted. Interrupting-computation will be contiguous as well--smooth. So you have written software of certain conditions and sequence, yet the compiler modifies the program (for better, verified.) Of course the solution is to wrap those lines with the "do not optimize" braces so interruption is guaranteed. The RTL-SDR is connected to a different laptop to read. Here are some images from last time.)
+# RICINscpa
+**Fast RICIN via SCPA using RTL-SDR.** (Antenna to SATA data, testing unoptimized C++. Let me tell you about an unexpected security risk. C++ compiler g++ will optimize. If you have read/writes to disk interrupted by computation so that read/write appears patterned and may be picked up via side channels, you won't get what you want. Read/write will be smooth and uninterrupted. Interrupting-computation will be contiguous as well--smooth. So you have written software of certain conditions and sequence, yet the compiler modifies the program (for better, verified.) Of course the solution is to wrap those lines with the "do not optimize" braces so interruption is guaranteed. The RTL-SDR is connected to a different laptop to read. Here are some images from last time.)
 
 <p align="center">
   <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/RTL-SDR.jpeg">
@@ -52,22 +52,22 @@ Fast RICIN via SCPA using RTL-SDR. (Antenna to SATA data, testing unoptimized C+
 </p>
 
 --------------------------------------------------------------------------------
-## SigEmerge
-Control computer circuitry as if antennas to network & broadcast, and pickup keystrokes using custom radios. (This is of course to demonstrate possible capabilities, warn, protect those born against their will. Defense only!)
+# SigEmerge
+*Control computer circuitry as if antennas to network & broadcast, and pickup keystrokes using custom radios.* (This is of course to demonstrate possible capabilities, warn, protect those born against their will. Defense only!)
 
 --------------------------------------------------------------------------------
-## groupdocOTP
-Combining groupOTP with schemeOTP but not replacing schemeOTP.
+# groupdocOTP
+**Combining groupOTP with schemeOTP.**
 
 --------------------------------------------------------------------------------
-## Meanwhile on my laptop...
+# Meanwhile on my laptop...
 
 <p align="center">
   <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/Meanwhile.jpg">
 </p>
 
 --------------------------------------------------------------------------------
-## And here's an old one
+# And here's an old one
 
 <p align="center">
   <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/RICINkeyboard.jpg">
