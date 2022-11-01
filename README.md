@@ -53,7 +53,7 @@ Purpose: if primes can be recognized, so might semiprimes. And if that, perhaps 
 
 --------------------------------------------------------------------------------
 # SigEmerge
-*Control computer circuitry as if antennas to network & broadcast, and pickup keystrokes using custom radios.* (This is of course to demonstrate possible capabilities, warn, protect those born against their will. Defense only!)
+**Control computer circuitry as if antennas to network & broadcast, and pickup keystrokes using custom radios.** (This is of course to demonstrate possible capabilities, warn, protect those born against their will. Defense only!)
 
 --------------------------------------------------------------------------------
 # groupdocOTP
