@@ -5,12 +5,6 @@ Projects upcoming on a need-to-show basis.
 
 
 --------------------------------------------------------------------------------
-# pqML
-**Train a model to recognize 18-digit primes, all models unique.** <br/>
-
-Purpose: if primes can be recognized, so might semiprimes. And if that, perhaps their factors. Otherwise, this would serve as a pretty-good-proof that semiprimes are without reversal shortcuts. 18 digits is a good start for proof of concept, which might be applied to relevant length later. Remember, the desirable outcome is to fail; to show that semiprime strength perseveres under computer thought exaction.
-
---------------------------------------------------------------------------------
 # pqMLzero
 **Natural pqML variant with activity-based gain and inactivity-based loss.**
 
