@@ -5,6 +5,10 @@ Projects upcoming on a need-to-show basis.
 
 
 --------------------------------------------------------------------------------
+# pqML
+**Train a model to recognize 18-digit primes, all models unique.** Purpose: same as last time. Moving to approach: single while monitoring effect on other td.
+
+--------------------------------------------------------------------------------
 # pqMLzero
 **Natural pqML variant with activity-based gain and inactivity-based loss.**
 
