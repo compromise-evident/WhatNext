@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; //This comment is new.
 
 int main()
 {	cout << "Center photoresistors against the two spots THEN press enter and connect this\n"
