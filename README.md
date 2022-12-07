@@ -34,9 +34,5 @@ Projects upcoming on a need-to-show basis.
 **The claustrophobic finitude that led me to infinite trust from 1 number.** (How Authorship overcomes surprising depth of censorship. Completed, electronifying...)
 
 --------------------------------------------------------------------------------
-# SigEmerge
-**Control computer circuitry as if antennas to network & broadcast, and pickup keystrokes using custom radios.** (This is of course to demonstrate possible capabilities, warn, and protect those born against their will. Defense only!)
-
---------------------------------------------------------------------------------
 # AuthorShift
 **Overkill Authorship variant for switching to upon paradigm shift in computing power.**
