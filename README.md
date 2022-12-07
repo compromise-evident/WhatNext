@@ -3,7 +3,11 @@ Projects upcoming on a need-to-show basis.
 -->
 
 
---------------------------------------------------------------------------------
+
+<p align="center">
+  <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/EXIF_tilted_3.png">
+</p>
+
 # EXIF_tilted
 **A small investigation into tracking-data.** These images are screenshot snippets in Geany which don't always include that noise. I believe this noise can be determined by the particular machine used to take the screenshot. REMEMBER: **this noise only shows up when I greatly tilt a high-resolution display**--almost perpendicular to the image sensor taking the photo... That's not all I'm investigating. I have noticed that while creating documents, visuals and even characters shift and render in strange ways which reproducibly makes its way to the export such as a PDF. With enough disfigurement, your document might reveal IDs of machine parts which don't get serviced often such as motherboards and even the speaker (for its resistance,) which might be logged by the manufacturer of that machine.
 
@@ -91,3 +95,7 @@ Projects upcoming on a need-to-show basis.
 </p>
 
 Yes, I scratched off leads on the keyboard guts and soldered photoresistors to those leads. IIRC there's .2V always active, and when two or more leads have an electrical path between them, some symbol is printed to the screen. So I night-moded a terminal and sent '#' flying on the screen while bringing this contraption close to the screen, where the hash characters run upwards like reverse matrix. See RICINkeyboard.cpp in Other.
+
+--------------------------------------------------------------------------------
+# AuthorShift
+**Overkill Authorship variant for switching to upon paradigm shift in computing power.**
