@@ -38,5 +38,5 @@ Projects upcoming on a need-to-show basis.
 **Overkill Authorship variant for switching to upon paradigm shift in computing power.**
 
 --------------------------------------------------------------------------------
-# Discontinue
-**Enticing centralized toys for secretly discontinuing user existence the moment humans play with the toys in simultaneity.** Purpose: world domination/end suffering/accelerate 2nd coming.
+# cpp2apk
+**Creates apk from cpp source.**
