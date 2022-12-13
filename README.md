@@ -39,4 +39,4 @@ Projects upcoming on a need-to-show basis.
 
 --------------------------------------------------------------------------------
 # cpp2apk
-**Creates apk from cpp source.** (apk will run in a terminal emulator, without raising VirusTotal flags.)
+**Creates apk from cpp source.** (apk will run a terminal emulator, without raising VirusTotal flags.)
