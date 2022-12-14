@@ -38,5 +38,5 @@ Projects upcoming on a need-to-show basis.
 **Overkill Authorship variant for switching to upon paradigm shift in computing power.**
 
 --------------------------------------------------------------------------------
-# cpp2apk
+# cpp2apk-CLI
 **Creates apk from cpp source.** (apk will run a terminal emulator, without raising VirusTotal flags.)
