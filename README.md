@@ -42,8 +42,8 @@ Projects upcoming on a need-to-show basis.
 **Creates Command-Line Interface apk from cpp source--without raising flags on VirusTotal.**
 
 Features:
-* apk doesn't raise flags on VirusTotal.
-* default dir is /storage/emulated/0/ instead of /storage/emulated/0/Android/data/com.authorship as seen on C4droid.
-* licensed under WTFPLv2+ as damn usual.
-* completely open about what it does and everything else.
-* gratis; else I'll compromise for that mint.
+* APK doesn't raise flags on VirusTotal.
+* Default dir is /storage/emulated/0/ instead of /storage/emulated/0/Android/data/com.authorship as seen on C4droid.
+* Licensed under WTFPLv2+ as damn usual.
+* Completely open about what it does and everything else.
+* Gratis; else I'll compromise for that mint.
