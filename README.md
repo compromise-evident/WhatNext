@@ -39,4 +39,4 @@ Projects upcoming on a need-to-show basis.
 
 --------------------------------------------------------------------------------
 # cpp2apk-CLI
-**Creates apk from cpp source.** (apk will run a terminal emulator, without raising VirusTotal flags.)
+**Creates Command-Line Interface apk from cpp source--without raising flags on VirusTotal.** (Home-made alternative to C4droid.)
