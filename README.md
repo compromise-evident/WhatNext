@@ -43,7 +43,7 @@ Projects upcoming on a need-to-show basis.
 
 Features:
 * APK doesn't raise flags on VirusTotal.
-* Default dir is /storage/emulated/0/ instead of /storage/emulated/0/Android/data/com.authorship as C4droid enforces in the apk by default.
+* Default dir is /storage/emulated/0/ instead of /storage/emulated/0/Android/data/com.your_project as C4droid enforces in the apk by default.
 * Licensed under WTFPLv2+ as damn usual.
 * Completely open about what it does and everything else.
 * Gratis; else I'll compromise for that mint.
