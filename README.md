@@ -30,15 +30,7 @@ Projects upcoming on a need-to-show basis.
 **Train a model to recognize 18-digit primes, all models unique.**
 
 --------------------------------------------------------------------------------
-# Escaping finitude
-**The claustrophobic finitude that led me to infinite trust from 1 number.** (How Authorship overcomes surprising depth of censorship. Completed, electronifying...)
-
---------------------------------------------------------------------------------
-# AuthorShift
-**Overkill Authorship variant for switching to upon paradigm shift in computing power.**
-
---------------------------------------------------------------------------------
-# cpp2apk-CLI
+# cpp2apk
 **Creates Command-Line Interface apk from cpp source--without raising flags on VirusTotal.**
 
 Features:
