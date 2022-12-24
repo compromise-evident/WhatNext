@@ -22,7 +22,7 @@ Projects upcoming on a need-to-show basis.
 </p>
 
 <p align="center">
-  <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/EXIF_tilted_spider%20brain%20compares.jpg">
+  <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/EXIF_tilted_spider-brain-compares.jpg">
 </p>
 
 --------------------------------------------------------------------------------
