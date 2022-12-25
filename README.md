@@ -4,21 +4,6 @@ Projects upcoming on a need-to-show basis.
 
 
 
-# pqML
-**Train a model to recognize 18-digit primes, all models unique.**
-
-Back to this again, I'll try a different strategy (previously ran all taining data through model, changed model, ran data through again and if less training items were misclassified, that changed model overwrites the last.) I'm still strongly sticking to how moslty unimportant it is to train on 1 training item, see if that misclassifies the next item in line, and try a different model change if it does--restarting. This time, I'll see what happens if I train it on 10 items, then 20, and so on--automatically increasing as if using a mode that was heading in the righ think-direction.
-
-**Purpose:**
-
-If primes can be recognized, so might semiprimes. And if that, perhaps their factors. Desirable outcome is failure--adding to statistical proof of the inexistence of semiprime reversal shortcuts. [Old cpp from November 5 2022](https://coliru.stacked-crooked.com/a/59dae62225b7e270)
-
-**Update:**
-
-It's working. Out of 20 training items, it brought misclassification from 17 down to 3 misclassified in just a few seconds. That saved model should be better be begin with when training on 40 items?
-
-
-
 # EXIF_tilted
 
 **...A small investigation into tracking-data.**
