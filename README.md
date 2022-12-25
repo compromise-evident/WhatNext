@@ -13,6 +13,10 @@ Back to this again, I'll try a different strategy (previously ran all taining da
 
 If primes can be recognized, so might semiprimes. And if that, perhaps their factors. Desirable outcome is failure--adding to statistical proof of the inexistence of semiprime reversal shortcuts. [Old cpp from November 5 2022](https://coliru.stacked-crooked.com/a/59dae62225b7e270)
 
+**Update:**
+
+It's working. Out of 20 training items, it brought misclassification from 17 down to 3 misclassified in just a few seconds. That saved model should be better be begin with when training on 40 items?
+
 
 
 # EXIF_tilted
