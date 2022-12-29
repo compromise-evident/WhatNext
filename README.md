@@ -8,7 +8,7 @@ Projects upcoming on a need-to-show basis.
 
 **A pqML variant of bizarre absurdity.**
 
-Previously, I trained it on 20 items (10 primes, 10 composites) and pqML brought misclassification down to 2 in just 5 minutes. How about creating 1,000 models in bulk, training each on 18 items, and having them all vote upon testing a user-provided prime candidate? Each model will be breated quickly but remains inadequate--unless they all have say in the the final poll. Here we go...
+Previously, I trained it on 20 items (10 primes, 10 composites) and pqML brought misclassification down to 2 in just 5 minutes. How about creating 1,000 models in bulk, training each on 18 items, and having them all vote upon testing a user-provided prime candidate? Each model will be created quickly but remains inadequate--unless they all have say in the the final poll. Here we go...
 
 # EXIF_tilted
 
