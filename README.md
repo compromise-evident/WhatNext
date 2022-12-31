@@ -10,7 +10,7 @@ Projects upcoming on a need-to-show basis.
 
 # Pinny
 
-**cpp-to-real power pin interface for ALICE's motors. (Pinny will be realized with or without ALICE, I need a proper power signal system like the Rpi pins eccept not that garbage at all.)**
+**cpp-to-real power pin interface for ALICE's motors.** (Pinny will be realized with or without ALICE, I need a proper power signal system like the Rpi pins eccept not that garbage at all.)
 
 # EXIF_tilted
 
