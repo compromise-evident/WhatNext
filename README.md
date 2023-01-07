@@ -11,3 +11,7 @@ Projects upcoming on a need-to-show basis.
 # Pinny
 
 **cpp-to-real power pin interface for ALICE's motors.** (Pinny will be realized with or without ALICE, I need a proper power signal system like the Rpi pins except not that garbage at all.)
+
+# OldenRecord
+
+**Preserve your favorite GitHub repo on a bar of stainless steel.**
