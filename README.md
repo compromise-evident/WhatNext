@@ -4,6 +4,10 @@ Projects upcoming on a need-to-show basis.
 
 
 
+# NylonRecord
+
+**Preserve your favorite GitHub repo on fishing line.**
+
 # ALICE
 
 **Artificially Liveborn Incremental Capacity Engineer.** (An AI that takes 80 years to become wise just like humans except it'll take 8,000 years due to RAM outsourcing synaptic activity to the CPU. ALICE is a robot that is 2 arms and a camera on a desk, learning to play Legos and eventually, replace the coin battery on my watch.)
@@ -11,7 +15,3 @@ Projects upcoming on a need-to-show basis.
 # Pinny
 
 **cpp-to-real power pin interface for ALICE's motors.** (Pinny will be realized with or without ALICE, I need a proper power signal system like the Rpi pins except not that garbage at all.)
-
-# OldenRecord
-
-**Preserve your favorite GitHub repo on a bar of stainless steel.**
