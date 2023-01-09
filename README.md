@@ -4,15 +4,11 @@ Projects upcoming on a need-to-show basis.
 
 
 
-# NylonRecord
+# Fluorocarbon
 
-<p align="center">
-  <img src="https://github.com/compromise-evident/WhatNext/blob/main/Other/knife-to-fishing-line.jpg">
-</p>
+**Preserve your favorite scr on fluorocarbon fishing line.**
 
-**Preserve your favorite GitHub repo on fishing line.**
-
-(Supports a few MB, file has footer and header on the strand so data retrieval is direction-independent. RICIN and its variants will be used for this, and some sort of micro-hammer to damage the line. Nylon is good because it's cheap, ubiquitous, and should **last forever** if protected from rays & stuff. Measuring tape seems cool for this too. Fishing line can then be heat-insulated in concrete so post-Apophis alien nerds can retrieve it when you're ash. Purpose: un-takedown-able lasting storage so the CIA will give you attention, and to test longevity (I will personally store stuff made with this experiment in appropriate lead/concrete oxygen-free containers... maybe like inexpensive alternative to GitHub's Arctic Vault.) Image: dull knife striking fishing line perpendicularly and at 45 degrees, line still holds strong. But If photoresistors are to be used, I might need a way to instead darken the line selectively. And of course, there will be a line-reader to verify the data is ready to catch fish or be stored away. And those who tell you that nylon decomposed in a few decades is manufacturing nylon products for a living. My experiments will show the truth, perhaps to generations further out.)
+(Purpose: un-takedown-able kilo-year storage and longevity experiment.)
 
 # ALICE
 
