@@ -6,7 +6,7 @@ Projects upcoming on a need-to-show basis.
 
 # Fluorocarbon
 
-**Preserve your favorite scr on fluorocarbon fishing line.**
+**Preserve your favorite scr on pure fluorocarbon fishing line.**
 
 (Purpose: un-takedown-able kilo-year storage and longevity experiment.)
 
