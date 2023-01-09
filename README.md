@@ -8,7 +8,7 @@ Projects upcoming on a need-to-show basis.
 
 **Preserve your favorite GitHub repo on fishing line.**
 
-(Supports a few MB, file has footer and header on the strand so data retrieval is direction-independent. RICIN and its variants will be used for this, and some sort of micro-hammer to damage the line. Nylon is good because it's cheap, ubiquitous, and does not break down for quite a while. Measuring tape seems cool for this too. Fishing line can then be heat-isolated in concrete so post-Apophis nerds can retrieve it when you're ash.)
+(Supports a few MB, file has footer and header on the strand so data retrieval is direction-independent. RICIN and its variants will be used for this, and some sort of micro-hammer to damage the line. Nylon is good because it's cheap, ubiquitous, and does not break down for quite a while. Measuring tape seems cool for this too. Fishing line can then be heat-isolated in concrete so post-Apophis alien nerds can retrieve it when you're ash.)
 
 # ALICE
 
