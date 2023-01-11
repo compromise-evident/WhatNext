@@ -8,7 +8,7 @@ Projects upcoming on a need-to-show basis.
 
 **Preserve your favorite scr on pure fluorocarbon fishing line.**
 
-(Purpose: un-takedown-able kilo-year storage and longevity experiment. Storing 1 Byte/cm yields ~45kB on 500-yard line. That's enough to store compressed Authorship.cpp twice; plenty.)
+(Purpose: un-takedown-able multi-kilo-year storage and longevity experiment. Storing 1 Byte/cm yields ~45kB on 500-yard line. That's enough to store compressed Authorship.cpp twice; plenty.)
 
 # ALICE
 
